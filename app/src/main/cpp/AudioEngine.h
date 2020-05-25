@@ -1,0 +1,14 @@
+//
+// Created by Adamln on 24/05/2020.
+//
+
+#ifndef TUTORIALNATIVECPP_AUDIOENGINE_H
+#define TUTORIALNATIVECPP_AUDIOENGINE_H
+
+
+class AudioEngine {
+
+};
+
+
+#endif //TUTORIALNATIVECPP_AUDIOENGINE_H
